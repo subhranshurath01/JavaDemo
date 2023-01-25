@@ -18,7 +18,6 @@ class A
 
 			}
 			System.out.println("The sum of Numbers is "+sum);
-            System.out.println("The sum of Numbers is "+sum);
 			
 		}
 
